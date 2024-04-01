@@ -17,7 +17,7 @@ metadata:
 spec:
   lifecycle: development
   owner: field-sales-dept
-  type: platform
+  type: service
   description: Microservice development platform for Containerized applications
   implementsApis:
     - codenow-api
