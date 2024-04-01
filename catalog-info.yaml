@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: CodeNOW
+  labels:
+    tenant: 'cloud-dev.stxcn.codenow.com'
   annotations:
     github.com/project-slug: kimrow/codenow-backstage-test1
     description: Microservice development platform for Containerized applications
