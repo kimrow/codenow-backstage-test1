@@ -4,6 +4,10 @@ metadata:
   name: codenow-backstage-test1
   annotations:
     github.com/project-slug: kimrow/codenow-backstage-test1
+  links:
+    - url: https://cloud.codenow.com
+      title: CodeNOW Self Service Portal
+      icon: dashboard
 spec:
   lifecycle: production
   owner: codenow-customer
