@@ -1,22 +1,20 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: codenow-backstage-test1
+  name: CodeNOW
   annotations:
     github.com/project-slug: kimrow/codenow-backstage-test1
     description: Microservice development platform for Containerized applications
   links:
-    - url: 'https://example.com/docs'
+    - url: 'https://docs.codenow.com'
       title: 'Documentation'
       icon: 'book'
-    - url: 'https://example.com/repo'
-      title: 'Repository'
+    - url: 'https://cloud.codenow.com'
+      title: 'Self Service Portal'
       icon: 'code'
-    - url: 'https://example.com/dashboard'
-      title: 'Dashboard'
-      icon: 'dashboard'
 spec:
   lifecycle: development
-  owner: codenow-customer
+  owner: field-sales-dept
   type: platform
+  description: Microservice development platform for Containerized applications
   
