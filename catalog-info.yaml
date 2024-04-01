@@ -4,11 +4,19 @@ metadata:
   name: codenow-backstage-test1
   annotations:
     github.com/project-slug: kimrow/codenow-backstage-test1
+    description: Microservice development platform for Containerized applications
   links:
-    - url: https://cloud.codenow.com
-      title: CodeNOW Self Service Portal
-      icon: dashboard
+    - url: 'https://example.com/docs'
+      title: 'Documentation'
+      icon: 'book'
+    - url: 'https://example.com/repo'
+      title: 'Repository'
+      icon: 'code'
+    - url: 'https://example.com/dashboard'
+      title: 'Dashboard'
+      icon: 'dashboard'
 spec:
   lifecycle: development
   owner: codenow-customer
   type: platform
+  
