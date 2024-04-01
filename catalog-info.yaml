@@ -1,7 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: codenow-component
+  name: codenow-backstage-test1
+  annotations:
+    github.com/project-slug: kimrow/codenow-backstage-test1
 spec:
   lifecycle: production
   owner: codenow-customer
