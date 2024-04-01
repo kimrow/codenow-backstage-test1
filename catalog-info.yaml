@@ -9,6 +9,6 @@ metadata:
       title: CodeNOW Self Service Portal
       icon: dashboard
 spec:
-  lifecycle: production
+  lifecycle: development
   owner: codenow-customer
-  type: service
+  type: platform
