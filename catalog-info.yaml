@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-my-plugin-component
+  name: codenow-component
 spec:
   lifecycle: production
-  owner: my-team
+  owner: codenow-customer
   type: service
