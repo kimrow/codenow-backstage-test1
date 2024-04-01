@@ -11,7 +11,7 @@ metadata:
     - url: 'https://docs.codenow.com'
       title: 'Documentation'
       icon: 'book'
-    - url: 'https://cloud.codenow.com'
+    - url: ' https://cloud-dev.stxcn.codenow.com'
       title: 'Self Service Portal'
       icon: 'code'
 spec:
