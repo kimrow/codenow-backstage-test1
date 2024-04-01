@@ -19,5 +19,6 @@ spec:
   owner: field-sales-dept
   type: service
   description: Microservice development platform for Containerized applications
-  implementsApis:
-    - codenow-api
+  codenow-host: https://cloud-dev.stxcn.codenow.com
+  codenow-api: https://api-fat.stxcn.codenow.com
+  key: api_J2AqCoG6qX82cAQjk3QwB858jZg6qb
