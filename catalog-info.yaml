@@ -4,6 +4,7 @@ metadata:
   name: CodeNOW
   labels:
     tenant: 'cloud-dev.stxcn.codenow.com'
+  description: Microservice development platform for Containerized applications
   annotations:
     github.com/project-slug: kimrow/codenow-backstage-test1
     description: Microservice development platform for Containerized applications
